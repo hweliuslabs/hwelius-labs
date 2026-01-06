@@ -1,0 +1,7 @@
+// src/shittyConfig.json
+{
+  "baseDelayMs": 15000,
+  "errorProbability": 0.35,
+  "hogProbability": 0.15,
+  "rateLimitPerMin": 3
+}
